@@ -14,6 +14,8 @@ Name: Kaya Zehra
  
 ### Projekte / neue Technologien
 -  C#
+-  https://www.codecademy.com/search?query=C%23&fromPrevSearch=bc021a96-8b5c-48b1-997a-8cef8c67780b
+-  https://moodle.bbbaden.ch/
  
 ### Generelle Ziele
 -  Modul 319 fertig
