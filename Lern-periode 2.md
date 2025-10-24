@@ -28,5 +28,9 @@ Name: Kaya Zehra
 - Modul 319 LA_319_0902_Scope fertig, Modul 431 Handlungsziel 4 fertig, Modul 431 LA_431_1719 Video fertig, OBA weiterschreiben, Wenn noch zeit bleibt: Learn C#: methods 
  
 ### 17.10.2025
-Reflexion: 
+Reflexion: Modul 319 LA_319_0902 fertig, Modul 431 Handlungsziel 4 halb-fertig, Modul 431 LA_431_1719 Video fertig, Modul 431 LA_431_1730 pptx fertig, Prüfung vorbereitung
+
+## Planung 24.10.2025
+-Visual Studio: Schatzssuche weiterarbeiten, Einige Pptx videos schauen, Fransözisch Hausaufgaben, Learn C#: methods
+
  
