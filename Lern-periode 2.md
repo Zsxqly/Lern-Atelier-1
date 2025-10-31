@@ -39,5 +39,13 @@ Modul 319 LA_319_0902 fertig, Modul 431 Handlungsziel 4 halb-fertig, Modul 431 L
 ### Reflexion 24.10.2025
 Heute habe ich gut an meinem Visual-Studio-Projekt „Schatzsuche“ gearbeitet und bin sehr weit gekommen. Ich war konzentriert und zufrieden mit dem Ergebnis. Bei den PowerPoint-Videos hätte ich etwas aufmerksamer sein können, aber ich habe trotzdem etwas gelernt. Die Französisch-Hausaufgaben sind halb fertig, ich mache sie morgen weiter. Bei Codecademy habe ich in „Learn C#: Methods“ weitergearbeitet und die Aufgaben gut verstanden. Mit Musik konnte ich mich besser konzentrieren. Insgesamt bin ich zufrieden mit meinem Tag, auch wenn ich nicht alles komplett geschafft habe.
 
+## Planung 31.10.2025
+- [x] Fransözisch Auftrag
+- [ ] Excel Tabelle für Mittwoch: Projektplanung
+- [x] https://www.youtube.com/watch?v=QYxZY9R5Mek
+- [x] Learn C#: methods
+- [x] Visual Studio: weiterarbeit projekt
+### Reflexion 
+Heute habe ich meine Französisch-Aufgaben gemacht und sie gut verstanden. Das YouTube-Video war ziemlich kompliziert, deshalb musste ich es mehrmals anschauen, um alles zu verstehen. Bei der Excel-Tabelle konnte ich mich heute nicht so gut konzentrieren, also habe ich entschieden, etwas anderes zu machen. Stattdessen habe ich weiter an meinem eigenen Projekt in Visual Studio gearbeitet und ein bisschen mit Code experimentiert. Das hat mir Spass gemacht und ich habe dabei auch etwas Neues gelernt. Insgesamt bin ich zufrieden mit meinem Tag, auch wenn nicht alles perfekt gelaufen ist.
 
- 
+## Planung 07.11.2025
