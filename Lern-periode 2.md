@@ -49,3 +49,11 @@ Heute habe ich gut an meinem Visual-Studio-Projekt „Schatzsuche“ gearbeitet 
 Heute habe ich meine Französisch-Aufgaben gemacht und sie gut verstanden. Das YouTube-Video war ziemlich kompliziert, deshalb musste ich es mehrmals anschauen, um alles zu verstehen. Bei der Excel-Tabelle konnte ich mich heute nicht so gut konzentrieren, also habe ich entschieden, etwas anderes zu machen. Stattdessen habe ich weiter an meinem eigenen Projekt in Visual Studio gearbeitet und ein bisschen mit Code experimentiert. Das hat mir Spass gemacht und ich habe dabei auch etwas Neues gelernt. Insgesamt bin ich zufrieden mit meinem Tag, auch wenn nicht alles perfekt gelaufen ist.
 
 ## Planung 07.11.2025
+- [x] Fransözisch Üben
+- [x] Modul 162 Präsentation Daten Bereinigen
+- [x] Modul 162 1722
+- [x] Modul 162 1723
+- [x] Modul 162 1724
+- [x] Funktionen für Projekt am Mittwoch üben
+### Reflexion
+Heute habe ich für den kommenden Französisch-Test gelernt und konnte mich gut konzentrieren, was echt gut war. Danach habe ich noch ein paar Sachen aus Dienstag in Modul 162 erledigt, die ich vorher nicht so gut verstanden hatte, also habe ich die Präsentation gelesen und konnte sie jetzt besser nachvollziehen. Danach habe ich die Funktionen für das Projekt am Mittwoch geübt, aber ich habe sie noch nicht ganz drauf, also werde ich nächste Woche noch einmal daran arbeiten. Alles aus meiner Planung habe ich geschafft, deswegen bin ich ziemlich zufrieden mit dem Tag.
