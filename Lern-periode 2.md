@@ -56,4 +56,16 @@ Heute habe ich meine Französisch-Aufgaben gemacht und sie gut verstanden. Das Y
 - [x] Modul 162 1724
 - [x] Funktionen für Projekt am Mittwoch üben
 ### Reflexion
-Heute habe ich für den kommenden Französisch-Test gelernt und konnte mich gut konzentrieren, was echt gut war. Danach habe ich noch ein paar Sachen aus Dienstag in Modul 162 erledigt, die ich vorher nicht so gut verstanden hatte, also habe ich die Präsentation gelesen und konnte sie jetzt besser nachvollziehen. Danach habe ich die Funktionen für das Projekt am Mittwoch geübt, aber ich habe sie noch nicht ganz drauf, also werde ich nächste Woche noch einmal daran arbeiten. Alles aus meiner Planung habe ich geschafft, deswegen bin ich ziemlich zufrieden mit dem Tag.
+Heute habe ich für den kommenden Französisch-Test gelernt und konnte mich gut konzentrieren, was gut war. Danach habe ich noch ein paar Sachen aus Dienstag in Modul 162 erledigt, die ich vorher nicht so gut verstanden hatte, also habe ich die Präsentation gelesen und konnte sie jetzt besser nachvollziehen. Danach habe ich die Funktionen für das Projekt am Mittwoch geübt, aber ich habe sie noch nicht ganz drauf, also werde ich nächste Woche noch einmal daran arbeiten. Alles aus meiner Planung habe ich geschafft, deswegen bin ich ziemlich zufrieden mit dem Tag.
+
+## Planung 14.11.2025
+- [x] Modul 162 1741
+- [x] Modul 162 1732
+- [x] Pptx studieren
+- [x] Mathe Hausaufgaben
+- [x] Visual Studio: weiterarbeit projekt
+- [x] Projektplanung update
+- [x] Array iteration repeat
+
+### Reflexion 
+Aus meiner Sicht war der Tag insgesamt gut, auch wenn nicht alles perfekt lief. Ich habe vieles erledigt, aber bei 1732, der Array-Iteration und auch bei 1741 hatte ich deutlich Probleme. Diese Themen muss ich mir unbedingt nochmal genauer anschauen, damit ich sie wirklich verstehe. Die restlichen Aufgaben liefen ohne grosse Schwierigkeiten. Nächstes Mal nehme ich mir für die schwierigen Sachen mehr Zeitdamit ich es besser verstehe.
