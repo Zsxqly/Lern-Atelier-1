@@ -69,3 +69,14 @@ Heute habe ich für den kommenden Französisch-Test gelernt und konnte mich gut 
 
 ### Reflexion 
 Aus meiner Sicht war der Tag insgesamt gut, auch wenn nicht alles perfekt lief. Ich habe vieles erledigt, aber bei 1732, der Array-Iteration und auch bei 1741 hatte ich deutlich Probleme. Diese Themen muss ich mir unbedingt nochmal genauer anschauen, damit ich sie wirklich verstehe. Die restlichen Aufgaben liefen ohne grosse Schwierigkeiten. Nächstes Mal nehme ich mir für die schwierigen Sachen mehr Zeitdamit ich es besser verstehe.
+
+## Planung 21.11.2025
+- [x] Projektweiterarbeiten (Division, 0, Fehlermeldung)
+- [x] Finanz Rechnungswesen üben
+- [x] HTML/C++ üben
+- [x] Projektplanung update
+- [x] Array iteration repeat(wieder)
+- [x] Modul 162 1693
+
+### Reflexion
+Der Tag lief insgesamt gut, und ich konnte alles aus der Planung erledigen. Bei den meisten Aufgaben hatte ich keine grossen Schwierigkeiten. Nur die Modul 162 1693 war erneut herausfordernd. Diese Thema(Daten Modellieren/Bereinigen) muss ich mir noch einmal genauer anschauen. Trotzdem war es ein produktiver Tag, und nächstes Mal nehme ich mir für die schwierigen Punkte bewusst mehr Zeit.
