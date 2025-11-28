@@ -80,3 +80,12 @@ Aus meiner Sicht war der Tag insgesamt gut, auch wenn nicht alles perfekt lief. 
 
 ### Reflexion
 Der Tag lief insgesamt gut, und ich konnte alles aus der Planung erledigen. Bei den meisten Aufgaben hatte ich keine grossen Schwierigkeiten. Nur die Modul 162 1693 war erneut herausfordernd. Diese Thema(Daten Modellieren/Bereinigen) muss ich mir noch einmal genauer anschauen. Trotzdem war es ein produktiver Tag, und nächstes Mal nehme ich mir für die schwierigen Punkte bewusst mehr Zeit.
+
+## Planung 28.11.2025
+- [x] Powerpoint für Bruchrechnertool
+- [x] HTML/C#/C++ üben
+- [x] Modul 162 weiterarbeiten
+- [x] Normalisierung pptx
+
+### Reflexion
+Der Tag war produktiv, und ich konnte alle geplanten Aufgaben erledigen. Die Arbeiten an der PowerPoint und das Üben der Programmiersprachen liefen gut. Nur Modul 162 war erneut etwas anspruchsvoll, aber ich habe trotzdem Fortschritte gemacht. 
