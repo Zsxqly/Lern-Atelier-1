@@ -89,3 +89,13 @@ Der Tag lief insgesamt gut, und ich konnte alles aus der Planung erledigen. Bei 
 
 ### Reflexion
 Der Tag war produktiv, und ich konnte alle geplanten Aufgaben erledigen. Die Arbeiten an der PowerPoint und das Üben der Programmiersprachen liefen gut. Nur Modul 162 war erneut etwas anspruchsvoll, aber ich habe trotzdem Fortschritte gemacht. 
+
+## Planung 05.12.2025
+- [x] Projektweiterarbeiten
+- [x] HTML/C++ üben
+- [x] Modul 162/Dienstagsprüfung vorbereitung
+- [x] Modul 162 Gesamtrepetition
+- [x] Wirtschaft Marketing arbeitsblatt
+
+### Reflexion
+Der Tag war produktiv, und ich habe vieles geschafft. Ich habe auch für die Dienstagsprüfung im Modul 162 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint und das Üben der Programmiersprachen liefen gut. Mit der Planung und Reflexion war ich ein bisschen spät dran, weil ich am Ende noch am Projekt gearbeitet habe und nicht gemerkt habe, dass es schon 11:20 war.
