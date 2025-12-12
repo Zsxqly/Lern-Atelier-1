@@ -99,3 +99,13 @@ Der Tag war produktiv, und ich konnte alle geplanten Aufgaben erledigen. Die Arb
 
 ### Reflexion
 Der Tag war produktiv, und ich habe vieles geschafft. Ich habe auch für die Dienstagsprüfung im Modul 162 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint und das Üben der Programmiersprachen liefen gut. Mit der Planung und Reflexion war ich ein bisschen spät dran, weil ich am Ende noch am Projekt gearbeitet habe und nicht gemerkt habe, dass es schon 11:20 war.
+
+
+## Planung 05.12.2025
+- [x] Franz
+- [x] HTML/C++ üben
+- [x] Modul 117 pptx
+- [x] Modul 117 handlungsziel 2 
+
+### Reflexion
+
