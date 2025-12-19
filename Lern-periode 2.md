@@ -108,4 +108,15 @@ Der Tag war produktiv, und ich habe vieles geschafft. Ich habe auch für die Die
 - [x] Modul 117 handlungsziel 2 
 
 ### Reflexion
+Der Tag lief insgesamt gut, und ich konnte alles aus der Planung erledigen. Bei den meisten Aufgaben hatte ich keine grossen Schwierigkeiten. Nur die Modul 162 1693 war erneut herausfordernd. Diese Thema(Daten Modellieren/Bereinigen) muss ich mir noch einmal genauer anschauen. Trotzdem war es ein produktiver Tag, und nächstes Mal nehme ich mir für die schwierigen Punkte bewusst mehr Zeit.
+
+## Planung 19.12.2025
+- [x] Projektweiterarbeiten
+- [x] HTML/C++ üben
+- [ ] Modul 117 handlungsziel 3
+- [x] Modul 164 handlungsziel 2
+- [x] Franz
+
+### Reflexion
+Der Tag war produktiv, und ich habe vieles geschafft. Ich habe auch im Modul 117 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint und das Üben der Programmiersprachen liefen gut. Ich bin nicht ganz fertig mit Handlungsziel 3 also werde ich nächste Woche noch einmal daran arbeiten
 
