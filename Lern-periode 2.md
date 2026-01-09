@@ -1,14 +1,14 @@
 # Lern-Periode 2
 Name: Kaya Zehra
  
-17.10.2025 bis 
+17.10.2025 bis 19.12.2025
  
 ## Grob-Planung
 -  Modul 319 fertig
 -  Modul 431 fertig
 
 ### Noten
--
+M162 - Prüfung
  
 ### Veränderungen
 -
