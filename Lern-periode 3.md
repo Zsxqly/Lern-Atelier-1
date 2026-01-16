@@ -38,3 +38,11 @@ Name: Kaya Zehra
 ### Reflexion 
 Der Tag war produktiv, und ich habe vieles geschafft. Heute war ich ziemlich konzentriert und konnte viele Aufgaben erledigen. Ich habe aber nicht gewusst, dass wir uns nur auf Informatik konzentrieren sollen, deshalb habe ich meine Französisch-Hausaufgaben gemacht. Nächstes Mal werde ich mich in ILA nur auf Informatik fokussieren.
 
+## Planung 16.01.2026
+- [x] HTML/C++ üben
+- [x] Modul 164 SQL SELECT und WHERE
+- [x] Modul 117 HZ3 angefangen
+
+### Reflexion 
+Heute war ich leider zu spät dran, weil ich verschlafen habe, und deshalb konnte ich nicht ganz so viel erledigen wie sonst. Trotzdem bin ich zufrieden. Besonders in Modul 164 spüre ich echte Fortschritte. Dieses Mal habe ich mich ganz auf Informatik konzentriert, und das hat mir geholfen, fokussierter zu arbeiten. Für das nächste Mal will ich pünktlicher sein, damit ich den Tag besser nutzen kann.
+
