@@ -46,3 +46,11 @@ Der Tag war produktiv, und ich habe vieles geschafft. Heute war ich ziemlich kon
 ### Reflexion 
 Heute war ich leider zu spät dran, weil ich verschlafen habe, und deshalb konnte ich nicht ganz so viel erledigen wie sonst. Trotzdem bin ich zufrieden. Besonders in Modul 164 spüre ich echte Fortschritte. Dieses Mal habe ich mich ganz auf Informatik konzentriert, und das hat mir geholfen, fokussierter zu arbeiten. Für das nächste Mal will ich pünktlicher sein, damit ich den Tag besser nutzen kann.
 
+## Planung 23.01.2026
+- [x] HTML/C++ üben
+- [x] Modul 164 SQL SELECT und WHERE + Neue Database
+- [x] Modul 117 HZ3 weiter
+- [x] Modul 164 + 117 pptx
+
+### Reflexion 
+Der Tag war produktiv, und ich habe vieles geschafft.
