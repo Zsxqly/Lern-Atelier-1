@@ -54,3 +54,15 @@ Heute war ich leider zu spät dran, weil ich verschlafen habe, und deshalb konnt
 
 ### Reflexion 
 Der Tag war produktiv, und ich habe vieles geschafft.
+
+## Planung 23.01.2026
+- [x] HTML/C++ üben
+- [x] Modul 164 SQL
+- [x] Modul 117 HZ 4-5 weiter
+- [x] Modul 117 üben
+- [ ] Modul 164 LB
+
+### Reflexion 
+Der Tag war produktiv, und ich habe vieles geschafft. Ich habe grosse Fortschritte im LB gemacht. Ich habe auf Modul 164 fokussiert so dass ich am Netzworklabortag besser dran arbeite. Ich war heute auch konzentriert und nächste Mal würde ich so weiterarbeiten.
+
+
