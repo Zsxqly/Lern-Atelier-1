@@ -55,7 +55,7 @@ Heute war ich leider zu spät dran, weil ich verschlafen habe, und deshalb konnt
 ### Reflexion 
 Der Tag war produktiv, und ich habe vieles geschafft.
 
-## Planung 23.01.2026
+## Planung 13.02.2026
 - [x] HTML/C++ üben
 - [x] Modul 164 SQL
 - [x] Modul 117 HZ 4-5 weiter
