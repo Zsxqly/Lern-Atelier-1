@@ -72,8 +72,7 @@ Der Tag war produktiv, und ich habe vieles geschafft. Ich habe grosse Fortschrit
 - [x] Netzwerklabor
 
 ### Reflexion 
-
-
+Ich habe im Modul 164 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint, Netzwerklabor und das Üben der Programmiersprachen liefen gut. Ich bin nicht ganz fertig mit Handlungsziel 5 also werde ich nächste Woche noch einmal daran arbeiten
 
 
 
