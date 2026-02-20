@@ -65,4 +65,15 @@ Der Tag war produktiv, und ich habe vieles geschafft.
 ### Reflexion 
 Der Tag war produktiv, und ich habe vieles geschafft. Ich habe grosse Fortschritte im LB gemacht. Ich habe auf Modul 164 fokussiert so dass ich am Netzworklabortag besser dran arbeite. Ich war heute auch konzentriert und nächste Mal würde ich so weiterarbeiten.
 
+## Planung 20.02.2026
+- [x] HTML/C++ üben
+- [x] Modul 164 SQL/Projekt
+- [x] Modul 117 HZ 5
+- [x] Netzwerklabor
+
+### Reflexion 
+
+
+
+
 
