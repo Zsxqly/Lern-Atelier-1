@@ -82,5 +82,15 @@ Ich habe im Modul 164 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint
 ### Reflexion 
 - Heute war ich leider zu spät dran, weil ich verschlafen habe, und deshalb konnte ich nicht ganz so viel erledigen wie sonst. Ich hatte auch nicht so viel zu tun deswegen habe ich meine Software updates ausgeführt. Nächstesmal pläne ich besser vor.
 
+- ## Planung 06.03.2026
+- [x] HTML/C++ üben
+- [x] Modul 106 Partnerarbeit
+- [ ] Modul 187 Hz 1 fertig
+
+### Reflexion 
+Das Üben der Programmiersprachen liefen gut. Ich bin nicht ganz fertig mit Handlungsziel 1 also werde ich nächste Woche noch einmal daran arbeiten. Ich war heute konzentriert und nächste Mal würde ich so weiterarbeiten.
+
+
+
 
 
