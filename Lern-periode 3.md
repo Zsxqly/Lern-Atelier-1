@@ -90,6 +90,14 @@ Ich habe im Modul 164 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint
 ### Reflexion 
 Das Üben der Programmiersprachen liefen gut. Ich bin nicht ganz fertig mit Handlungsziel 1 also werde ich nächste Woche noch einmal daran arbeiten. Ich war heute konzentriert und nächste Mal würde ich so weiterarbeiten.
 
+- ## Planung 13.03.2026
+- [x] HTML/C++ üben
+- [x] Software Update
+- [x] Modul 187 HZ 2
+- [ ] Ubuntu aufsetzen
+      
+### Reflexion 
+Der Tag war produktiv, Ich könnte gut weiterkommen mit HTML, Und ich habe viele fortschritte im Modul 187 gemacht.  Ich war leider unkonzentriert bei Ubuntu und hätte schwierigkeiten. Ich muss entweder zuhause oder am Mittwoch wieder dran arbeiten. Nächstesmal würde ich konzentriert weiterarbeiten.
 
 
 
