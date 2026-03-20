@@ -74,6 +74,7 @@ Der Tag war produktiv, und ich habe vieles geschafft. Ich habe grosse Fortschrit
 ### Reflexion 
 Ich habe im Modul 164 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint, Netzwerklabor und das Üben der Programmiersprachen liefen gut. Ich bin nicht ganz fertig mit Handlungsziel 5 also werde ich nächste Woche noch einmal daran arbeiten
 
+:P
 ## Planung 27.02.2026
 - [x] HTML/C++ üben
 - [x] Software Update
@@ -82,6 +83,7 @@ Ich habe im Modul 164 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint
 ### Reflexion 
 - Heute war ich leider zu spät dran, weil ich verschlafen habe, und deshalb konnte ich nicht ganz so viel erledigen wie sonst. Ich hatte auch nicht so viel zu tun deswegen habe ich meine Software updates ausgeführt. Nächstesmal pläne ich besser vor.
 
+>-<
 - ## Planung 06.03.2026
 - [x] HTML/C++ üben
 - [x] Modul 106 Partnerarbeit
@@ -90,6 +92,7 @@ Ich habe im Modul 164 gearbeitet, war dabei aber etwas abgelenkt. Die PowerPoint
 ### Reflexion 
 Das Üben der Programmiersprachen liefen gut. Ich bin nicht ganz fertig mit Handlungsziel 1 also werde ich nächste Woche noch einmal daran arbeiten. Ich war heute konzentriert und nächste Mal würde ich so weiterarbeiten.
 
+;)
 - ## Planung 13.03.2026
 - [x] HTML/C++ üben
 - [x] Software Update
@@ -99,6 +102,14 @@ Das Üben der Programmiersprachen liefen gut. Ich bin nicht ganz fertig mit Hand
 ### Reflexion 
 Der Tag war produktiv, Ich könnte gut weiterkommen mit HTML, Und ich habe viele fortschritte im Modul 187 gemacht.  Ich war leider unkonzentriert bei Ubuntu und hätte schwierigkeiten. Ich muss entweder zuhause oder am Mittwoch wieder dran arbeiten. Nächstesmal würde ich konzentriert weiterarbeiten.
 
+:D
+## Planung 20.03.2026
+- [x] HTML/C++ üben
+- [x] Modul 106
+- [ ] Modul 187 LA_0708
+- [x] Modul 187 LA_0706
 
+### Reflexion
+Ich bin heute erst um 09:00 gekommen statt um 07:30, deshalb musste ich die verpasste Zeit nacharbeiten. Trotzdem war ich den ganzen Tag konzentriert und konnte produktiv arbeiten. Ich habe an den Modulen 106 und 187 gearbeitet und meine Kenntnisse in HTML und C++ verbessert. Ich bin noch nicht fertig mit LA_0708 im Modul 187 und werde das nacharbeiten.
 
 
