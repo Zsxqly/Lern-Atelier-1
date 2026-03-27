@@ -116,3 +116,11 @@ Ich bin heute erst um 09:00 gekommen statt um 07:30, deshalb musste ich die verp
 - [x] Modul 187 LA_0708
 Ich habe die noch offene Aufgabe LA_0708 aus dem Modul 187 am Wochenende nachgearbeitet und erfolgreich abgeschlossen.
 
+## Planung 27.03.2026
+- [x] Vorbereitung 187
+- [ ] Modul 106
+- [x] HTML üben
+- [x] Modul 187 poster fertigstellen
+ 
+### Reflexion
+Ich war heute konzentriert und konnte effizient arbeiten. Ich habe viel erledigt und bin mit meiner Leistung zufrieden. Beim nächsten Mal möchte ich so weitermachen.
