@@ -112,4 +112,7 @@ Der Tag war produktiv, Ich könnte gut weiterkommen mit HTML, Und ich habe viele
 ### Reflexion
 Ich bin heute erst um 09:00 gekommen statt um 07:30, deshalb musste ich die verpasste Zeit nacharbeiten. Trotzdem war ich den ganzen Tag konzentriert und konnte produktiv arbeiten. Ich habe an den Modulen 106 und 187 gearbeitet und meine Kenntnisse in HTML und C++ verbessert. Ich bin noch nicht fertig mit LA_0708 im Modul 187 und werde das nacharbeiten.
 
+# Nacharbeit 
+- [x] Modul 187 LA_0708
+Ich habe die noch offene Aufgabe LA_0708 aus dem Modul 187 am Wochenende nachgearbeitet und erfolgreich abgeschlossen.
 
