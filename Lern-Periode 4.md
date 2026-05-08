@@ -29,7 +29,11 @@ Name: Kaya Zehra
 -  Projekt
 
 ## Planung 008.05.2026
-
-
+- [x] Modul 106 2414
+- [x] Modul 106 2415
+- [ ] Modul 122 Projektidee
+- [ ] OBA Modul 106
 ### Reflexion 
+Diese Woche habe ich die Aufgaben aus Modul 106 (2414 und 2415) abgeschlossen und damit den Rückstand aufgeholt. An der Projektidee für Modul 122 und am OBA für Modul 106 arbeite ich noch weiter. Insgesamt bin ich aber wieder besser organisiert und auf gutem Weg.
+
 
