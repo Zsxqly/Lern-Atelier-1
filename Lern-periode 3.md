@@ -1,7 +1,7 @@
 # Lern-Periode 3
 Name: Kaya Zehra
  
-09.01.026 bis 
+09.01.026 bis 08.05.2026
  
 ## Grob-Planung
 -  Modul 117 fertig
