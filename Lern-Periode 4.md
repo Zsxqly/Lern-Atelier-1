@@ -45,4 +45,11 @@ Diese Woche habe ich die Aufgaben aus Modul 106 (2414 und 2415) abgeschlossen un
 ### Reflexion 
 Ich konnte die meisten Aufgaben erledigen und habe produktiv gearbeitet. Schlecht war, dass ich für Modul 122 noch keine richtige Idee habe und deshalb dort noch nicht fertig bin. Nächstes Mal möchte ich früher mit solchen Aufgaben anfangen und besser planen.
 
+## Planung 29.05.2026
+- [x] Modul 293 Quiz CSS 
+- [x] Modul 122 Projekt weiterarbeiten
+- [x] HTML/CSS üben
+- [x] Khan Academy Challange CSS
+### Reflexion 
+Ich konnte alle geplanten Aufgaben erledigen und habe konzentriert gearbeitet. Die Khan Academy Challenge hat mir geholfen, CSS besser zu verstehen. Nächstes Mal möchte ich noch effizienter arbeiten.
 
