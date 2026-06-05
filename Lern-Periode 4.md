@@ -53,3 +53,11 @@ Ich konnte die meisten Aufgaben erledigen und habe produktiv gearbeitet. Schlech
 ### Reflexion 
 Ich konnte alle geplanten Aufgaben erledigen und habe konzentriert gearbeitet. Die Khan Academy Challenge hat mir geholfen, CSS besser zu verstehen. Nächstes Mal möchte ich noch effizienter arbeiten.
 
+## Planung 29.05.2026
+- [x] Modul 293
+- [x] Modul 122 Projekt weiterarbeiten
+- [x] HTML/CSS üben
+- [X]Anforderungen anpassen Projektidee
+- [X] Powerpoint Read_Write
+### Reflexion
+Der Tag war produktiv, und ich konnte alle geplanten Aufgaben erledigen. Ich habe viel erledigt und bin mit meiner Leistung zufrieden. Nächstesmal würde ich konzentriert weiterarbeiten.
