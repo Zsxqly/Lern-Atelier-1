@@ -57,7 +57,7 @@ Ich konnte alle geplanten Aufgaben erledigen und habe konzentriert gearbeitet. D
 - [x] Modul 293
 - [x] Modul 122 Projekt weiterarbeiten
 - [x] HTML/CSS üben
-- [X]Anforderungen anpassen Projektidee
+- [X] Anforderungen anpassen Projektidee
 - [X] Powerpoint Read_Write
 ### Reflexion
 Der Tag war produktiv, und ich konnte alle geplanten Aufgaben erledigen. Ich habe viel erledigt und bin mit meiner Leistung zufrieden. Nächstesmal würde ich konzentriert weiterarbeiten.
