@@ -68,3 +68,10 @@ Der Tag war produktiv, und ich konnte alle geplanten Aufgaben erledigen. Ich hab
 - [X] Powerpoint Powershell-advanced
 ### Reflexion
 Ich konnte alle geplanten Aufgaben erledigen und habe konzentriert gearbeitet. Die Powerpoint hat mir geholfen, mein Projekt besser zu weiterarbeiten. Insgesamt bin ich organisiert und auf gutem Weg, nächsterman würde ich so weiterarbeiten.
+
+## Planung 19.06.2026
+- [x] Modul 293 webseite weiterarbeiten
+- [x] Modul 122 Projekt weiterarbeiten
+- [ ] Dokumentation 293
+### Reflexion
+Ich habe mich heute nur mit den Projekten beschäftigt und mit der Dokumentation angefangen. Ich habe fokussiert gearbeitet und würde nächstes Mal so weiterarbeiten.
