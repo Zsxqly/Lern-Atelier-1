@@ -75,3 +75,10 @@ Ich konnte alle geplanten Aufgaben erledigen und habe konzentriert gearbeitet. D
 - [ ] Dokumentation 293
 ### Reflexion
 Ich habe mich heute nur mit den Projekten beschäftigt und mit der Dokumentation angefangen. Ich habe fokussiert gearbeitet und würde nächstes Mal so weiterarbeiten.
+
+## Planung 26.06.2026
+- [x] HTML/CSS üben
+- [x] Eigene Projekt weiterarbeiten
+- [x] Software Updates
+### Reflexion
+Da ich heute nicht so viele Aufgaben hatte, habe ich hauptsächlich an meinem eigenen Projekt weitergearbeitet und zusätzlich etwas HTML/CSS geübt. Ich konnte konzentriert arbeiten und meine geplanten Aufgaben erledigen. Jetzt freue ich mich auf die Sommerferien. ᓚᘏᗢ
