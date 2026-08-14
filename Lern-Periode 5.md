@@ -23,8 +23,10 @@ Name: Kaya Zehra
 - in der IMS bleiben
 
 ## Planung 14.08.26
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Was ich am Montag verpasst habe
+- [ ] Was ich am Dienstag verpasst habe
+- [x] Projektidee überlegen
+- [x] HTML üben
+
 ### Reflexion 
+Ich konnte die meisten geplanten Aufgaben erledigen und habe konzentriert gearbeitet. Die Projektidee konnte ich überlegen und beim HTML-Üben konnte ich meine Kenntnisse verbessern. Was ich am Dienstag verpasst habe, muss ich noch nachholen. Insgesamt bin ich gut vorangekommen und würde nächstes Mal so weiterarbeiten.
