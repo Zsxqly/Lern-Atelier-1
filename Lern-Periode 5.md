@@ -30,3 +30,10 @@ Name: Kaya Zehra
 
 ### Reflexion 
 Ich konnte die meisten geplanten Aufgaben erledigen und habe konzentriert gearbeitet. Die Projektidee konnte ich überlegen und beim HTML-Üben konnte ich meine Kenntnisse verbessern. Was ich am Dienstag verpasst habe, muss ich noch nachholen. Insgesamt bin ich gut vorangekommen und würde nächstes Mal so weiterarbeiten.
+
+## Planung 21.08.26
+- [ ] Hz 2 Modul 231
+- [ ] User Stories
+- [ ] Modul 320 HZ 1 Fertig
+- [ ] HTML üben
+      
